@@ -59,7 +59,7 @@ The dataset contains multiple medical indicators related to fetal well-being:
 ---
 
 ## 📊 Sample Visualizations
-*(Add images in results/ folder and show here)*  
+
 
 - Histogram of Baseline FHR  
 - Heatmap of correlation between variables  
